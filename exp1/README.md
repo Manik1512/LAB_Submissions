@@ -43,15 +43,7 @@ This project performs **Exploratory Data Analysis (EDA)** on the Iris dataset, i
 
 ---
 
-## 🛠 Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- scikit-learn
 
----
 
 ## 📌 Conclusion
 - EDA is essential for understanding feature relevance before modeling.
